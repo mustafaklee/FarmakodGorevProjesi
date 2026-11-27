@@ -1,0 +1,5 @@
+C:\Users\musta\Desktop\FarmaKodProje\FarmakodGorevProjesi.exe
+C:\Users\musta\Desktop\FarmaKodProje\FarmakodGorevProjesi.dll
+C:\Users\musta\Desktop\FarmaKodProje\FarmakodGorevProjesi.deps.json
+C:\Users\musta\Desktop\FarmaKodProje\FarmakodGorevProjesi.runtimeconfig.json
+C:\Users\musta\Desktop\FarmaKodProje\FarmakodGorevProjesi.pdb
