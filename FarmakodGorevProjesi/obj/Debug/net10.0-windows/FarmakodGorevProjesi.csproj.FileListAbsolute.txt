@@ -12,6 +12,7 @@ C:\Users\musta\source\repos\FarmakodGorevProjesi\FarmakodGorevProjesi\obj\Debug\
 C:\Users\musta\source\repos\FarmakodGorevProjesi\FarmakodGorevProjesi\obj\Debug\net10.0-windows\FarmakodGorevProjesi.AssemblyInfoInputs.cache
 C:\Users\musta\source\repos\FarmakodGorevProjesi\FarmakodGorevProjesi\obj\Debug\net10.0-windows\FarmakodGorevProjesi.AssemblyInfo.cs
 C:\Users\musta\source\repos\FarmakodGorevProjesi\FarmakodGorevProjesi\obj\Debug\net10.0-windows\FarmakodGorevProjesi.csproj.CoreCompileInputs.cache
+C:\Users\musta\source\repos\FarmakodGorevProjesi\FarmakodGorevProjesi\obj\Debug\net10.0-windows\FarmakodGorevProjesi.sourcelink.json
 C:\Users\musta\source\repos\FarmakodGorevProjesi\FarmakodGorevProjesi\obj\Debug\net10.0-windows\FarmakodGorevProjesi.dll
 C:\Users\musta\source\repos\FarmakodGorevProjesi\FarmakodGorevProjesi\obj\Debug\net10.0-windows\refint\FarmakodGorevProjesi.dll
 C:\Users\musta\source\repos\FarmakodGorevProjesi\FarmakodGorevProjesi\obj\Debug\net10.0-windows\FarmakodGorevProjesi.pdb
